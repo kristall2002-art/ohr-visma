@@ -1,0 +1,9 @@
+hero1: Office Graph — Matt Moloney — cc0 — https://stocksnap.io/photo/office-graph-3PLFDQQZ5M
+hero2: Safety Gear — The World is a Stage — cc0 — https://stocksnap.io/photo/safety-gear-ULWDJDM6GZ
+prac1: 170908-N-RF885-004 — CNE CNA C6F — pdm — https://www.flickr.com/photos/94966166@N02/37070340862
+class1: 260210-O-RD001-4653 — USDAgov — pdm — https://www.flickr.com/photos/41284017@N08/55142890015
+obj_helmet: Free construction workers helmet image — None — cc0 — https://www.rawpixel.com/image/5914234/image-white-background-public-domain-blue
+obj_kit: Fire extinguisher, emergency equipment — None — cc0 — https://www.rawpixel.com/image/6037938/photo-image-public-domain-red-free
+weld: Welder crafting metal sparks — None — cc0 — https://www.rawpixel.com/image/5969941/welder
+panel: Free electrical panel image — None — cc0 — https://www.rawpixel.com/image/5904900/photo-image-public-domain-line-free
+plan: Construction Blueprint — Burst — cc0 — https://stocksnap.io/photo/construction-blueprint-BZ4FJO6KZE
